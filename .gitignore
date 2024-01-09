@@ -1,0 +1,12 @@
+#Pycharm
+.idea/*
+.idea/
+
+#logs
+*.txt
+
+#data
+example_data/
+example_data/*
+
+*.pyc
